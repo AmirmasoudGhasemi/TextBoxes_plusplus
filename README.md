@@ -1,5 +1,5 @@
 # TextBoxes++: A Single-Shot Oriented Scene Text Detector
-
+This fork is being changed for Text_SLAM!
 ### Introduction
 This is an application for scene text detection (TextBoxes++) and recognition (CRNN).
 
